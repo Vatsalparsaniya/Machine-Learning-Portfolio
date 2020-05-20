@@ -38,6 +38,14 @@ This is a repository of the projects I worked on or currently working on. It is 
 * Variational-Autoencoder Convolutional on Mnist Data [[link]](https://www.kaggle.com/vatsalparsaniya/variational-autoencoder-convolutional)
 * Remove Gaussian noise [[link]](https://github.com/Vatsalparsaniya/Variational_Autoencoder)
 * **Keywords**(Variational Autoencoder, CNN, Encoded Dimension, Latent space, Mnist)
-<img src="https://github.com/Vatsalparsaniya/Machine-Learning-Portfolio/blob/master/KaggleVariational%20Autoencoder/banner.png" width="600" height="150">
+<img src="https://github.com/Vatsalparsaniya/Machine-Learning-Portfolio/blob/master/Kaggle/Variational-Autoencoder/banner.png" width="600" height="150">
+
+---
+
+#### Apple VS Pear Classifier
+
+* Using **FastAI** Apple VS Pear Classifier [[link]](https://colab.research.google.com/github/Vatsalparsaniya/Deep_Learning/blob/master/Apple_Pear_classifier.ipynb)
+* **Keywords**(FastAI, Image Classification, WebScraping)
+<img src="https://github.com/Vatsalparsaniya/Machine-Learning-Portfolio/blob/master/Kaggle/Variational-Autoencoder/banner.png" width="600" height="150">
 
 ---
