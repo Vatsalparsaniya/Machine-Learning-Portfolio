@@ -46,6 +46,14 @@ This is a repository of the projects I worked on or currently working on. It is 
 
 * Using **FastAI** Apple VS Pear Classifier [[link]](https://colab.research.google.com/github/Vatsalparsaniya/Deep_Learning/blob/master/Apple_Pear_classifier.ipynb)
 * **Keywords**(FastAI, Image Classification, WebScraping)
-<img src="https://github.com/Vatsalparsaniya/Machine-Learning-Portfolio/blob/master/Kaggle/Variational-Autoencoder/banner.png" width="600" height="150">
+<img src="https://github.com/Vatsalparsaniya/Machine-Learning-Portfolio/blob/master/Google%20Colab/Apple%20VS%20Pear%20Classifier/banner.png" width="600" height="150">
+
+---
+
+#### Insurance Forecast
+
+* Using Medical Cost Personal Datasets, Insurance Forecast by using Regression [[link]](https://www.kaggle.com/vatsalparsaniya/insurance-models-eda)
+* **Keywords**(EDA, Ridge Regression, Lasso Regression, Elastic Regression, Linear Regression, Polynomial Regression)
+<img src="https://github.com/Vatsalparsaniya/Machine-Learning-Portfolio/blob/master/Google%20Colab/Apple%20VS%20Pear%20Classifier/banner.png" width="600" height="150">
 
 ---
