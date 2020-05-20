@@ -62,6 +62,15 @@ This is a repository of the projects I worked on or currently working on. It is 
 
 * Using tensorflow Classification on Fashion Minist Data [[link]](https://colab.research.google.com/github/Vatsalparsaniya/Deep_Learning/blob/master/Fashion_minist.ipynb)
 * **Keywords**(EDA, CNN, Deep-Learning, tensorflow, Classification)
-<img src="https://github.com/Vatsalparsaniya/Machine-Learning-Portfolio/blob/master/Kaggle/Insurance%20Forecast/banner.png" width="600" height="150">
+<img src="https://github.com/Vatsalparsaniya/Machine-Learning-Portfolio/blob/master/Google%20Colab/Fashion%20Minist/banner.png" width="600" height="150">
+
+---
+
+#### Data Visualization
+
+* Data Visulisation with **Seaborn** [[link]](https://colab.research.google.com/github/Vatsalparsaniya/Deep_Learning/blob/master/Fashion_minist.ipynb)
+* Data Visulisation with **Matplotlib** [[link]](https://colab.research.google.com/github/Vatsalparsaniya/Deep_Learning/blob/master/Fashion_minist.ipynb)
+* **Keywords**(EDA, Data Visualization, seaborn, matplotlib)
+<img src="https://github.com/Vatsalparsaniya/Machine-Learning-Portfolio/blob/master/Google%20Colab/Fashion%20Minist/banner.png" width="600" height="150">
 
 ---
