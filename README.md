@@ -74,3 +74,12 @@ This is a repository of the projects I worked on or currently working on. It is 
 <img src="https://github.com/Vatsalparsaniya/Machine-Learning-Portfolio/blob/master/Google%20Colab/Data%20Visualization/banner.png" width="600" height="150">
 
 ---
+
+#### Nifty Indices Timeseries Forecast
+
+* Nifty-50 Closing Price Forecasting [[link]](https://www.kaggle.com/vatsalparsaniya/nifty-50-visualization-forecasting)
+* Using LSTM and SARIMAXA model
+* **Keywords**(Timeseries, EDA, LSTM, SARIMAXA)
+<img src="https://github.com/Vatsalparsaniya/Machine-Learning-Portfolio/blob/master/Google%20Colab/Data%20Visualization/banner.png" width="600" height="150">
+
+---
