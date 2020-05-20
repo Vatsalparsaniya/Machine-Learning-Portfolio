@@ -33,4 +33,11 @@ This is a repository of the projects I worked on or currently working on. It is 
 
 ---
 
+#### Variational-Autoencoder
 
+* Variational-Autoencoder Convolutional on Mnist Data [[link]](https://www.kaggle.com/vatsalparsaniya/variational-autoencoder-convolutional)
+* Remove Gaussian noise [[link]](https://github.com/Vatsalparsaniya/Variational_Autoencoder)
+* **Keywords**(Variational Autoencoder, CNN, Encoded Dimension, Latent space, Mnist)
+<img src="https://github.com/Vatsalparsaniya/Machine-Learning-Portfolio/blob/master/KaggleVariational%20Autoencoder/banner.png" width="600" height="150">
+
+---
