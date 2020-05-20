@@ -68,9 +68,9 @@ This is a repository of the projects I worked on or currently working on. It is 
 
 #### Data Visualization
 
-* Data Visulisation with **Seaborn** [[link]](https://colab.research.google.com/github/Vatsalparsaniya/Deep_Learning/blob/master/Fashion_minist.ipynb)
-* Data Visulisation with **Matplotlib** [[link]](https://colab.research.google.com/github/Vatsalparsaniya/Deep_Learning/blob/master/Fashion_minist.ipynb)
+* Data Visulisation with **Seaborn** [[link]](https://github.com/Vatsalparsaniya/Machine-Learning-Portfolio/blob/master/Google%20Colab/Data%20Visualization/visualization_seaborn.ipynb)
+* Data Visulisation with **Matplotlib** [[link]](https://github.com/Vatsalparsaniya/Machine-Learning-Portfolio/blob/master/Google%20Colab/Data%20Visualization/visualization_matplotlib.ipynb)
 * **Keywords**(EDA, Data Visualization, seaborn, matplotlib)
-<img src="https://github.com/Vatsalparsaniya/Machine-Learning-Portfolio/blob/master/Google%20Colab/Fashion%20Minist/banner.png" width="600" height="150">
+<img src="https://github.com/Vatsalparsaniya/Machine-Learning-Portfolio/blob/master/Google%20Colab/Data%20Visualization/banner.png" width="600" height="150">
 
 ---
