@@ -6,6 +6,15 @@ This is a repository of the projects I worked on or currently working on. It is 
 
 ## Projects:
 
+#### Nifty Indices Timeseries Forecast
+
+* Nifty-50 Closing Price Forecasting [[link]](https://www.kaggle.com/vatsalparsaniya/nifty-50-visualization-forecasting)
+* Using LSTM and SARIMAXA model
+* **Keywords**(Timeseries, EDA, LSTM, SARIMAXA)
+<img src="https://github.com/Vatsalparsaniya/Machine-Learning-Portfolio/blob/master/Kaggle/Nifty-50%20Forecasting/banner.png" width="600" height="150">
+
+---
+
 #### Zomato India Analysis 
 
 * Zomato India dataset - EDA [[link]](https://www.kaggle.com/vatsalparsaniya/zomato-india-rajkot-eda)
@@ -71,15 +80,6 @@ This is a repository of the projects I worked on or currently working on. It is 
 * Data Visulisation with **Seaborn** [[link]](https://github.com/Vatsalparsaniya/Machine-Learning-Portfolio/blob/master/Google%20Colab/Data%20Visualization/visualization_seaborn.ipynb)
 * Data Visulisation with **Matplotlib** [[link]](https://github.com/Vatsalparsaniya/Machine-Learning-Portfolio/blob/master/Google%20Colab/Data%20Visualization/visualization_matplotlib.ipynb)
 * **Keywords**(EDA, Data Visualization, seaborn, matplotlib)
-<img src="https://github.com/Vatsalparsaniya/Machine-Learning-Portfolio/blob/master/Google%20Colab/Data%20Visualization/banner.png" width="600" height="150">
-
----
-
-#### Nifty Indices Timeseries Forecast
-
-* Nifty-50 Closing Price Forecasting [[link]](https://www.kaggle.com/vatsalparsaniya/nifty-50-visualization-forecasting)
-* Using LSTM and SARIMAXA model
-* **Keywords**(Timeseries, EDA, LSTM, SARIMAXA)
 <img src="https://github.com/Vatsalparsaniya/Machine-Learning-Portfolio/blob/master/Google%20Colab/Data%20Visualization/banner.png" width="600" height="150">
 
 ---
