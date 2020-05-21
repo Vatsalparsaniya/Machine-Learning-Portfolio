@@ -99,7 +99,7 @@ This is a repository of the projects I worked on or currently working on. It is 
 
 ---
 
-### Datacamp Time Serie SKILL TRACK [[Specialization home page](https://learn.datacamp.com/skill-tracks/time-series-with-python)]  [[Certificate](https://www.datacamp.com/statement-of-accomplishment/track/2cd08baf1919497047d1c5036a5aa44398009752)]
+#### Datacamp Time Serie SKILL TRACK [[Specialization home page](https://learn.datacamp.com/skill-tracks/time-series-with-python)]  [[Certificate](https://www.datacamp.com/statement-of-accomplishment/track/2cd08baf1919497047d1c5036a5aa44398009752)]
 * Time Series Analysis in Python [[Course home page](https://learn.datacamp.com/courses/time-series-analysis-in-python)]  [[Certificate](https://www.datacamp.com/statement-of-accomplishment/course/e44a99edc1e2ca61c3cdfe11c766f4661e18178b)]
 * Manipulating Time Series Data in Python [[Course home page](https://learn.datacamp.com/courses/time-series-analysis-in-python)]  [[Certificate](https://www.datacamp.com/statement-of-accomplishment/course/dc323a0789ec1bccc5f0cbdb3466e0c621fde331)]
 * Visualizing Time Series Data in Python [[Course home page](https://learn.datacamp.com/courses/visualizing-time-series-data-in-python)]  [[Certificate](https://www.datacamp.com/statement-of-accomplishment/course/28bb07fddbe19c8fa79f0a51cbc884cd2c53a2c7)]
