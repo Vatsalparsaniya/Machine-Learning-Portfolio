@@ -1,0 +1,8 @@
+## Courses:
+
+#### Deep Learning Specialization [[Specialization home page](https://www.coursera.org/specializations/aml)]  [[Certificate](https://coursera.org/share/c1eccbe1573658c40f4fcf70ecde6f1b)]
+* Neural Networks and Deep Learning [[Course home page](https://www.coursera.org/learn/neural-networks-deep-learning)]  [[Certificate](https://www.coursera.org/account/accomplishments/verify/9UY9PU4TMGZR?utm_source=link&utm_campaign=copybutton_certificate&utm_product=course)]
+* Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization [[Course home page](https://www.coursera.org/learn/deep-neural-network)]  [[Certificate](https://www.coursera.org/account/accomplishments/verify/WLY42CGGVGE2?utm_source=link&utm_campaign=copybutton_certificate&utm_product=course)]
+* Structuring Machine Learning Projects [[Course home page](https://www.coursera.org/learn/machine-learning-projects)]  [[Certificate](https://www.coursera.org/account/accomplishments/verify/5AUL3LUHRUC8?utm_source=link&utm_campaign=copybutton_certificate&utm_product=course)]
+* Convolutional Neural Networks [[Course home page](https://www.coursera.org/learn/convolutional-neural-networks)]  [[Certificate](https://www.coursera.org/account/accomplishments/verify/EQ2FHQMPY3WX?utm_source=link&utm_campaign=copybutton_certificate&utm_product=course)]
+* Sequence Models [[Course home page](https://www.coursera.org/learn/nlp-sequence-models)]  [[Certificate](https://www.coursera.org/account/accomplishments/verify/X93J56A93Q75?utm_source=link&utm_campaign=copybutton_certificate&utm_product=course)]
