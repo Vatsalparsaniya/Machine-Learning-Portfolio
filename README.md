@@ -12,7 +12,8 @@ This is a repository of the projects I worked on or currently working on. It is 
 #### Heroku Flaks Deeplearning Model Deploy  [[Link for the complete project repository](https://github.com/Vatsalparsaniya/Mnist-Model-Deploy)]
 
 
-* WebApp using Flask with Google Colab of MNIST model Deploy  [[https://github.com/Vatsalparsaniya/Mnist-Model-Deploy]](https://github.com/Vatsalparsaniya/Mnist-Model-Deploy)
+* WebApp using Flask with Google Colab of MNIST model Deploy  
+* check here [ https://mnistwebapp.herokuapp.com/]( https://mnistwebapp.herokuapp.com/)
 * **Keywords**(Flask, Heroku, tensorflow, model-deploy)
 <img src="https://github.com/Vatsalparsaniya/Mnist-Model-Deploy/blob/master/static/image/mnist1.PNG" width="600" height="250">
 
