@@ -9,6 +9,15 @@ This is a repository of the projects I worked on or currently working on. It is 
 
 ## Projects:
 
+#### Heroku Flaks Deeplearning Model Deploy  [[Link for the complete project repository](https://github.com/Vatsalparsaniya/Mnist-Model-Deploy)]
+
+
+* WebApp using Flask with Google Colab of MNIST model Deploy  [[https://github.com/Vatsalparsaniya/Mnist-Model-Deploy]](https://github.com/Vatsalparsaniya/Mnist-Model-Deploy)
+* **Keywords**(Flask, Heroku, tensorflow, model-deploy)
+<img src="https://github.com/Vatsalparsaniya/Mnist-Model-Deploy/blob/master/static/image/mnist1.PNG" width="600" height="250">
+
+---
+
 #### Nifty Indices Timeseries Forecast
 
 * Nifty-50 Closing Price Forecasting [[link]](https://www.kaggle.com/vatsalparsaniya/nifty-50-visualization-forecasting)
