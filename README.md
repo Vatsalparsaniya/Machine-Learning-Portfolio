@@ -4,13 +4,12 @@ This is a repository of the projects I worked on or currently working on. It is 
 
 ##### [My Kaggle profile](https://www.kaggle.com/vatsalparsaniya)    
 ##### [My Personal-Website](https://vatsalparsaniya.github.io)
-
+##### [Other Projects](https://github.com/Vatsalparsaniya/Machine-Learning-Portfolio/blob/master/Other%20Projects/README.md)
 ---
 
 ## Projects:
 
 #### Heroku Flaks Deeplearning Model Deploy  [[Link for the complete project repository](https://github.com/Vatsalparsaniya/Mnist-Model-Deploy)]
-
 
 * WebApp using Flask with Google Colab of MNIST model Deploy  
 * check here [ https://mnistwebapp.herokuapp.com/]( https://mnistwebapp.herokuapp.com/)
