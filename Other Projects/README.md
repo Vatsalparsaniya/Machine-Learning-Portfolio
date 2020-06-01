@@ -52,6 +52,6 @@
 * Web interface for Cretus-Robotics and automation club of PDPU
 * Designed web interface for Club Information, Event Schedule, Committee information, etc.
 * **Keywords**(HTML, CSS ,JavaScript)
-<!-- <img src="https://raw.githubusercontent.com/Vatsalparsaniya/PixHealth/master/Pix-Health/Web-Portal_SC/1.jpeg" width="600" height="250"> -->
+<img src="https://raw.githubusercontent.com/Vatsalparsaniya/Machine-Learning-Portfolio/master/Other%20Projects/Cretus-website/Canvas.PNG" width="600" height="250">
 
 ---
