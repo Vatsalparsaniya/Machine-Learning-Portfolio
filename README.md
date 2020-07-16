@@ -9,7 +9,7 @@ This is a repository of the projects I worked on or currently working on. It is 
 
 ## Projects:
 
-#### <span class="color-red"></span><sup><img style="display:inline" src="https://josaa.nic.in/webinfocms/Images/newicon.gif" alt="" /></sup> <span class="newNews"> Heroku Flaks Deeplearning Model Deploy  [[Link for the complete project repository](https://github.com/Vatsalparsaniya/Mnist-Model-Deploy)]
+#### [![](https://josaa.nic.in/webinfocms/Images/newicon.gif)](https://vatsalparsaniya.github.io) Heroku Flaks Deeplearning Model Deploy  [[Link for the complete project repository](https://github.com/Vatsalparsaniya/Mnist-Model-Deploy)]
 
 * WebApp using Flask with Google Colab of MNIST model Deploy  
 * check here [ https://mnistwebapp.herokuapp.com/]( https://mnistwebapp.herokuapp.com/)
