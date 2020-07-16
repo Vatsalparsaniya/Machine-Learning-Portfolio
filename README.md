@@ -9,7 +9,7 @@ This is a repository of the projects I worked on or currently working on. It is 
 
 ## Projects:
 
-#### [![](https://josaa.nic.in/webinfocms/Images/newicon.gif)](https://vatsalparsaniya.github.io) Heroku Flaks Deeplearning Model Deploy  [[Link for the complete project repository](https://github.com/Vatsalparsaniya/Mnist-Model-Deploy)]
+#### [![](https://raw.githubusercontent.com/Vatsalparsaniya/assets/master/newicon_1.gif?token=AIDJHSANOXFBC2CHBSMFURC7DFMLG)](https://vatsalparsaniya.github.io) Heroku Flaks Deeplearning Model Deploy  [[Link for the complete project repository](https://github.com/Vatsalparsaniya/Mnist-Model-Deploy)]
 
 * WebApp using Flask with Google Colab of MNIST model Deploy  
 * check here [ https://mnistwebapp.herokuapp.com/]( https://mnistwebapp.herokuapp.com/)
@@ -27,7 +27,7 @@ This is a repository of the projects I worked on or currently working on. It is 
 
 ---
 
-#### [![](https://josaa.nic.in/webinfocms/Images/newicon.gif)](https://vatsalparsaniya.github.io) Variational-Autoencoder [[Link for the complete project repository](https://github.com/Vatsalparsaniya/Variational_Autoencoder)]
+#### [![](https://raw.githubusercontent.com/Vatsalparsaniya/assets/master/newicon_1.gif?token=AIDJHSANOXFBC2CHBSMFURC7DFMLG)](https://vatsalparsaniya.github.io) Variational-Autoencoder [[Link for the complete project repository](https://github.com/Vatsalparsaniya/Variational_Autoencoder)]
 
 * Variational-Autoencoder Convolutional on Mnist Data [[link]](https://www.kaggle.com/vatsalparsaniya/variational-autoencoder-convolutional)
 * Remove Gaussian noise [[link]](https://github.com/Vatsalparsaniya/Variational_Autoencoder)
