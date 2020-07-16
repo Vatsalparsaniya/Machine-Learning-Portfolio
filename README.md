@@ -27,7 +27,7 @@ This is a repository of the projects I worked on or currently working on. It is 
 
 ---
 
-#### <span class="color-blue"></span><sup><img style="display:inline" src="https://josaa.nic.in/webinfocms/Images/newicon.gif" alt="" /></sup> <span class="newNews"> Variational-Autoencoder [[Link for the complete project repository](https://github.com/Vatsalparsaniya/Variational_Autoencoder)]
+#### [![](https://josaa.nic.in/webinfocms/Images/newicon.gif)](https://vatsalparsaniya.github.io) Variational-Autoencoder [[Link for the complete project repository](https://github.com/Vatsalparsaniya/Variational_Autoencoder)]
 
 * Variational-Autoencoder Convolutional on Mnist Data [[link]](https://www.kaggle.com/vatsalparsaniya/variational-autoencoder-convolutional)
 * Remove Gaussian noise [[link]](https://github.com/Vatsalparsaniya/Variational_Autoencoder)
