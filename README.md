@@ -4,7 +4,7 @@ This is a repository of the projects I worked on or currently working on. It is 
 
 ##### [My Kaggle profile](https://www.kaggle.com/vatsalparsaniya)    
 ##### [My Portfolio-Website  (vatsalparsaniya.github.io)](https://vatsalparsaniya.github.io)
-##### [Other Projects](https://github.com/Vatsalparsaniya/Machine-Learning-Portfolio/blob/master/Other%20Projects/README.md)
+##### [Other Projects](https://vatsalparsaniya.github.io/Machine-Learning-Portfolio/Other%20Projects/)
 ---
 
 ## Projects:
