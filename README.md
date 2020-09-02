@@ -3,11 +3,20 @@
 This is a repository of the projects I worked on or currently working on. It is updated regularly. I also have the Jupyter Notebook version of some of my Kaggle kernels here.
 
 ##### [My Kaggle profile](https://www.kaggle.com/vatsalparsaniya)    
-##### [My Portfolio-Website(vatsalparsaniya.github.io)](https://vatsalparsaniya.github.io)
+##### [My Portfolio-Website  (vatsalparsaniya.github.io)](https://vatsalparsaniya.github.io)
 ##### [Other Projects](https://github.com/Vatsalparsaniya/Machine-Learning-Portfolio/blob/master/Other%20Projects/README.md)
 ---
 
 ## Projects:
+
+#### [![](https://raw.githubusercontent.com/Vatsalparsaniya/assets/master/newicon_1.gif?token=AIDJHSANOXFBC2CHBSMFURC7DFMLG)](https://vatsalparsaniya.github.io) Kaggle SIIM-ISIC-Melanoma-Classification Competition 130/3314 (Silver Medal) [[Link for the complete project repository](https://github.com/Vatsalparsaniya/SIIM-ISIC-Melanoma-Classification)]
+
+* Identify melanoma in images of skin lesions.
+* Deep Learning Image Classification Competition
+* **Keywords**(Kaggle Competition, Classification, Stacking, Ensembling, Transfer Learning)
+<img src="https://raw.githubusercontent.com/Vatsalparsaniya/SIIM-ISIC-Melanoma-Classification/master/Images/banner.png" width="600" height="250">
+
+---
 
 #### [![](https://raw.githubusercontent.com/Vatsalparsaniya/assets/master/newicon_1.gif?token=AIDJHSANOXFBC2CHBSMFURC7DFMLG)](https://vatsalparsaniya.github.io) Heroku Flaks Deeplearning Model Deploy  [[Link for the complete project repository](https://github.com/Vatsalparsaniya/Mnist-Model-Deploy)]
 
