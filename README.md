@@ -15,7 +15,7 @@ This is a repository of the projects I worked on or currently working on. It is 
 * Deep Learning Image Classification Competition
 * **Keywords**(Kaggle Competition, Classification, Stacking, Ensembling, Transfer Learning)
 
-<img src="https://raw.githubusercontent.com/Vatsalparsaniya/SIIM-ISIC-Melanoma-Classification/master/Images/banner.png" width="600" height="250">
+<img src="https://raw.githubusercontent.com/Vatsalparsaniya/SIIM-ISIC-Melanoma-Classification/master/reports/figures/banner.png" width="600" height="250">
 
 ---
 
